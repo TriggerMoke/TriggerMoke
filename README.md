@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Aidan
-- 👀 I’m interested in ... computa
-- 🌱 I’m currently learning ... c++, Python
-
-I bruh
+- 👀 I’m interested in ... Bot automation, Photography, Rasberry PI mini projects, and computers ofc
+- 🌱 I’m currently learning ... c++, Python, JS, HTML
