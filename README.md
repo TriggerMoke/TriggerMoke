@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Aidan
-- 👀 I’m interested in ... Bot automation, Photography, Rasberry PI mini projects, and computers ofc
-- 🌱 I’m currently learning ... c++, Python, JS, HTML
+Gorp
